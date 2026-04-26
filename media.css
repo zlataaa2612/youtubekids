@@ -1,0 +1,174 @@
+@media screen and (max-width: 992px) {
+    header ul {
+}
+.offer p {
+    text-align: center;
+    margin: 25px auto;
+}
+.offer img {
+    margin: 100px auto;
+}
+.container {
+    width: 900px;
+}
+h2 {
+    width: 650px!important;
+}
+.container {
+    flex-direction: column;
+}
+.second h3 {
+    width: 630px;
+    margin: 0 auto;
+}
+.second_text {
+    width: 630px;
+}
+.second_text a {
+    margin-top: 30px;
+}
+.three .container {
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.three p {
+    margin: 0 auto;
+}
+.four h2 {
+    margin: 0 auto;
+}
+.four a {
+    margin: 25px auto;
+}
+.five .container {
+    width: 950px;
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.time {
+    margin: 25px auto;
+}
+.six .container {
+    width: 950px;
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.program {
+    margin: 25px auto;
+}
+.seven .container {
+    width: 950px;
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.talent_text {
+    width: 300px;
+    margin: 25px auto;
+}
+.talen_img {
+    margin: 0 auto;
+}
+.eight .container {
+    width: 950px;
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.child img {
+    width: 400px;
+}
+.teacher {
+    margin-bottom: 25px;
+}
+.footer .container {
+    width: 950px;
+    justify-content: space-between!important;
+    flex-wrap: wrap!important;
+    flex-direction: row;
+}
+.adres, .phone {
+    margin-bottom: 25px;
+}
+}@media screen and (max-width: 567px) {
+    header ul {
+        display: none;
+}
+.bugrer {
+    display: flex;
+}
+.burger:hover header img  {
+}
+.offer p {
+    text-align: center;
+    margin: 25px auto;
+}
+.offer img {
+    margin: 100px auto;
+}
+.container {
+    width: 550px;
+}
+h2 {
+    width: 450px!important;
+}
+.container {
+    flex-direction: column;
+}
+.second h3 {
+    width: 530px;
+    margin: 0 auto;
+}
+.second_text {
+    width: 530px;
+}
+.second_text a {
+    margin-top: 25px;
+}
+.three p {
+    margin: 0 auto;
+}
+.four h2 {
+    margin: 0 auto;
+}
+.four a {
+    margin: 25px auto;
+}
+.five .container {
+    width: 550px;
+}
+.time {
+    margin: 25px auto;
+}
+.six .container {
+    width: 550px;
+}
+.program {
+    margin: 25px auto;
+}
+.seven .container {
+    width: 550px;
+}
+.talent_text {
+    width: 300px;
+    margin: 25px auto;
+}
+.talen_img {
+    margin: 0 auto;
+}
+.eight .container {
+    width: 550px;
+}
+.teacher {
+    margin-bottom: 25px;
+}
+.footer .container {
+    width: 450px;
+}
+.adres, .phone {
+    margin-bottom: 25px;
+}
+}
